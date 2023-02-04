@@ -9,13 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jod431047](https://github.com/jod431047)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-
-- 📄 Know about my experiences [https://www.linkedin.com/feed/]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/jihad-abdl-azize-360b92261/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jihad abdl azize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad abdl azize" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jihad-abdl-azize-360b92261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad abdl azize" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
