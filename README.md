@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences [https://www.linkedin.com/feed/]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/jihad-abdl-azize-360b92261/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
