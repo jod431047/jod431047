@@ -7,6 +7,8 @@
 
 
 
+
+🌱 I’m currently learning Python and Django
 - 👨‍💻 All of my projects are available at [https://github.com/jod431047](https://github.com/jod431047)
 
 
