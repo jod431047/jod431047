@@ -1,4 +1,4 @@
-🌱 I’m currently learning Python and Django<h1 align="center">Hi 👋, I'm jihad abdl azize</h1>
+ <h1 align="center">Hi 👋, I'm jihad abdl azize</h1>
 <h3 align="center">A passionate frontend developer from syria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jod431047&label=Profile%20views&color=0e75b6&style=flat" alt="jod431047" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jod431047" alt="jod431047" /></a> </p>
 
 
-
+🌱 I’m currently learning Python and Django
 - 👨‍💻 All of my projects are available at [https://github.com/jod431047](https://github.com/jod431047)
 
 
